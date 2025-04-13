@@ -17,3 +17,7 @@ python quiz_game.py
 
 ## Author
 Amna Sajid
+
+## Screenshot
+
+![Quiz Game Screenshot](quiz_game_screenshot.png)
